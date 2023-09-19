@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39c6dce862ffe1b7",
+  "active": "d047a4c3924594d8",
   "lastOpenFiles": [
     "과제",
     "My First Note.md"
