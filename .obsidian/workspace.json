@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1cf630cf72395e3c",
+        "id": "83dbf6ffd1fa143d",
         "type": "tabs",
         "children": [
           {
-            "id": "d047a4c3924594d8",
+            "id": "ea0925d75772a24d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "My First Note.md",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -149,9 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d047a4c3924594d8",
+  "active": "39c6dce862ffe1b7",
   "lastOpenFiles": [
     "My First Note.md",
-    "과제"
+    "AI2Chat"
   ]
 }
