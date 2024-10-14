@@ -72,8 +72,15 @@
             "id": "ea0925d75772a24d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           },
           {
@@ -105,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-14.md",
+                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-14.md",
+                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-14.md"
+                "file": "Untitled 1.canvas"
               }
             }
           },
@@ -175,10 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "809cfb9c6c646e41",
+  "active": "ea0925d75772a24d",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Untitled 1.canvas",
     "2024-10-14.md",
+    "Untitled.canvas",
     "Bun/설치.md",
     "Bun/프로젝트 만들기.md",
     "Untitled.md",
